@@ -1,2 +1,5 @@
-# MG_Clones
-This Repository contains Clones that I have created
+Hey There! ;
+I am Mitesh Godne and I welcome you to my Repository # MG_Clones_1 ;
+This Repository contains a Front-end clone of Amazon Website ;
+Bacl-end work is still in progress ;
+Hope You Like it ;
